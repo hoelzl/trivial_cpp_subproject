@@ -1,7 +1,6 @@
 #include "{{cookiecutter.project_slug}}.hpp"
 
 #include <iostream>
-#include <string>
 
 namespace {{cookiecutter.project_namespace}} {
 
