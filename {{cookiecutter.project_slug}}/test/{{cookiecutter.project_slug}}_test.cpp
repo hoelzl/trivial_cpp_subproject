@@ -4,5 +4,5 @@
 
 TEST_CASE("Check that tests are executed")
 {
-	CHECK(false);
+	CHECK(true);
 }
