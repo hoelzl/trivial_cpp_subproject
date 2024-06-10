@@ -1,4 +1,4 @@
-#include "{{cookiecutter.project_slug}}.hpp"
+#include "{{cookiecutter.project_slug}}.h"
 
 #include <iostream>
 
